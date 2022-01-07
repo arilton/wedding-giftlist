@@ -4,7 +4,7 @@ import Items from "./giftlist.json";
 
 const CardList = props => 
     (<Row xs={1} sm={2} md={3} lg={4} xl={5} xxl={6} className="g-4">
-        {Items.map((item, idx) => (
+        {Items.filter(item => item.available).map((item, idx) => (
             <Col key={idx} sm={4}>
                 <Card style={{
                     height: "100%",
