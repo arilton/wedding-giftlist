@@ -14,11 +14,11 @@
         "image": "caneca.jpg",
         "link": "https://www.amazon.com.br/Caneca-Pe%C3%A7as-Porto-Brasil-ROMA/dp/B076VSYMRM/ref=sr_1_18?crid=1PWUMBHGX3SSK&keywords=caneca%2Bporcelana%2Bbranca&qid=1641558657&sprefix=caneca%2Bporcelana%2Bbr%2Caps%2C281&sr=8-18&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&th=1"
     },
-    {
-        "title": "Xícaras",
-        "image": "xicara.jpg",
-        "link": "https://www.amazon.com.br/dp/B09N7QGQ3W/ref=cm_sw_r_apan_glt_i_GP7WEZNDP7EDBRC5YZ6V?_encoding=UTF8&psc=1"
-    },
+    // {
+    //     "title": "Xícaras",
+    //     "image": "xicara.jpg",
+    //     "link": "https://www.amazon.com.br/dp/B09N7QGQ3W/ref=cm_sw_r_apan_glt_i_GP7WEZNDP7EDBRC5YZ6V?_encoding=UTF8&psc=1"
+    // },
     {
         "title": "Conjunto de taças para vinho",
         "image": "vinho.jpg",
@@ -69,11 +69,11 @@
         "image": "centrifugador.jpg",
         "link": "https://www.amazon.com.br/Centr%C3%ADfuga-Seca-Salada-5L-Arthi/dp/B07DPX511R/ref=sr_1_8?crid=3GBVBMZ1N94UZ&keywords=centrifugador+de+salada&qid=1641538827&sprefix=centrifugador+de+%2Caps%2C254&sr=8-8"
     },
-    {
-        "title": "Saladeira",
-        "image": "saladeira.jpg",
-        "link": "https://www.amazon.com.br/Saladeira-Parma-Tamanho-M-Ruvulo/dp/B077PXBY4V/ref=sr_1_1?keywords=saladeira+reggio+g&qid=1641538519&sprefix=saladeira+reggio%2Caps%2C222&sr=8-1"
-    },
+    // {
+    //     "title": "Saladeira",
+    //     "image": "saladeira.jpg",
+    //     "link": "https://www.amazon.com.br/Saladeira-Parma-Tamanho-M-Ruvulo/dp/B077PXBY4V/ref=sr_1_1?keywords=saladeira+reggio+g&qid=1641538519&sprefix=saladeira+reggio%2Caps%2C222&sr=8-1"
+    // },
     {
         "title": "Porta-frios",
         "image": "porta-frios.jpg",
@@ -120,7 +120,7 @@
         "link": "https://www.lebiscuit.com.br/mesa-de-passar-tramontina-classic-dobravel-100x30x84cm-5040150/p"
     },
     {
-        "title": "Jogo de cama",
+        "title": "Jogo de cama de casal algodão 4 peças",
         "image": "jogo-cama.jpg",
         "link": "#"
     },
