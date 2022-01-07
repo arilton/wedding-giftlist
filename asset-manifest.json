@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding-giftlist/static/css/main.04179b6f.css",
-    "main.js": "/wedding-giftlist/static/js/main.aa537b91.js",
+    "main.js": "/wedding-giftlist/static/js/main.be47ed9d.js",
     "static/js/787.7e7e4be8.chunk.js": "/wedding-giftlist/static/js/787.7e7e4be8.chunk.js",
     "static/media/jogo-cama.jpg": "/wedding-giftlist/static/media/jogo-cama.5da30fe5f82485a24d10.jpg",
     "static/media/protetor-cama.jpg": "/wedding-giftlist/static/media/protetor-cama.fbe388db6da865bedcab.jpg",
@@ -9,6 +9,7 @@
     "static/media/tapete-massas.webp": "/wedding-giftlist/static/media/tapete-massas.26c1df2f8d626b0d88b6.webp",
     "static/media/tapetes-banheiro.jpg": "/wedding-giftlist/static/media/tapetes-banheiro.f3a0c4bf688630390d7a.jpg",
     "static/media/protetor-trav.jpg": "/wedding-giftlist/static/media/protetor-trav.632759e4bebf4e1047cc.jpg",
+    "static/media/aparelho-jantar.jpg": "/wedding-giftlist/static/media/aparelho-jantar.a91b88656b41d82fb00e.jpg",
     "static/media/colher.webp": "/wedding-giftlist/static/media/colher.98232a896a17bb9e02fc.webp",
     "static/media/descansos-panelas.jpg": "/wedding-giftlist/static/media/descansos-panelas.5d31a247894b20e37476.jpg",
     "static/media/processador.jpg": "/wedding-giftlist/static/media/processador.91d6991d883ee8f85222.jpg",
@@ -19,7 +20,6 @@
     "static/media/vinho.jpg": "/wedding-giftlist/static/media/vinho.42593ad7493403fafb4b.jpg",
     "static/media/caneca.jpg": "/wedding-giftlist/static/media/caneca.ef0559e5041e125068c0.jpg",
     "static/media/centrifugador.jpg": "/wedding-giftlist/static/media/centrifugador.34e7dd97e2c1dcdd8c92.jpg",
-    "static/media/aparelho-jantar.jpg": "/wedding-giftlist/static/media/aparelho-jantar.7c423ded755767c193c1.jpg",
     "static/media/potes-vidro.jpg": "/wedding-giftlist/static/media/potes-vidro.fd44f89af28060b573a8.jpg",
     "static/media/jarra-vidro.jpg": "/wedding-giftlist/static/media/jarra-vidro.8d85ba4cf2949dfe5c1e.jpg",
     "static/media/mop.jpg": "/wedding-giftlist/static/media/mop.ccb8ede670ab8a9e498d.jpg",
@@ -30,11 +30,11 @@
     "static/media/almofada.jpg": "/wedding-giftlist/static/media/almofada.6aa4e1d398e6be7ec926.jpg",
     "index.html": "/wedding-giftlist/index.html",
     "main.04179b6f.css.map": "/wedding-giftlist/static/css/main.04179b6f.css.map",
-    "main.aa537b91.js.map": "/wedding-giftlist/static/js/main.aa537b91.js.map",
+    "main.be47ed9d.js.map": "/wedding-giftlist/static/js/main.be47ed9d.js.map",
     "787.7e7e4be8.chunk.js.map": "/wedding-giftlist/static/js/787.7e7e4be8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.aa537b91.js"
+    "static/js/main.be47ed9d.js"
   ]
 }
