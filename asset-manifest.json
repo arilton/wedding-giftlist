@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding-giftlist/static/css/main.04179b6f.css",
-    "main.js": "/wedding-giftlist/static/js/main.62f684b7.js",
+    "main.js": "/wedding-giftlist/static/js/main.3b2ef6ce.js",
     "static/js/787.7e7e4be8.chunk.js": "/wedding-giftlist/static/js/787.7e7e4be8.chunk.js",
     "static/media/jogo-cama.jpg": "/wedding-giftlist/static/media/jogo-cama.5da30fe5f82485a24d10.jpg",
     "static/media/protetor-cama.jpg": "/wedding-giftlist/static/media/protetor-cama.fbe388db6da865bedcab.jpg",
@@ -30,11 +30,11 @@
     "static/media/almofada.jpg": "/wedding-giftlist/static/media/almofada.6aa4e1d398e6be7ec926.jpg",
     "index.html": "/wedding-giftlist/index.html",
     "main.04179b6f.css.map": "/wedding-giftlist/static/css/main.04179b6f.css.map",
-    "main.62f684b7.js.map": "/wedding-giftlist/static/js/main.62f684b7.js.map",
+    "main.3b2ef6ce.js.map": "/wedding-giftlist/static/js/main.3b2ef6ce.js.map",
     "787.7e7e4be8.chunk.js.map": "/wedding-giftlist/static/js/787.7e7e4be8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.62f684b7.js"
+    "static/js/main.3b2ef6ce.js"
   ]
 }
