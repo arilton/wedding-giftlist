@@ -27,7 +27,7 @@
         "title": "Conjunto de taças para vinho",
         "image": "vinho.jpg",
         "link": "https://www.amazon.com.br/Ta%C3%A7as-Vinho-Barone-Nadir-Figueiredo/dp/B0778Y6DGY/ref=sr_1_11?keywords=conjunto%2Bde%2Bta%C3%A7as%2Bde%2Bvinho&qid=1641539227&sprefix=conjunto%2Bde%2Bta%C3%A7as%2Caps%2C237&sr=8-11&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d&th=1",
-        "available": true
+        "available": false
     },
     {
         "title": "Conjunto para sobremesa",
@@ -57,7 +57,7 @@
         "title": "Liquidificador e processador",
         "image": "processador.jpg",
         "link": "https://www.amazon.com.br/Multiprocessador-Walita-Philips-RI7630-91/dp/B019LRI9V4/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VR1HE8KE7JNV&keywords=liquidificador%2Bprocessador&qid=1641539759&sprefix=liquidificador%2Bprocessad%2Caps%2C293&sr=8-5&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b&th=1",
-        "available": true
+        "available": false
     },
     {
         "title": "Potes de herméticos de vidro",
