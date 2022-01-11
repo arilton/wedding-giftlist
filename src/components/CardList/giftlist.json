@@ -45,7 +45,7 @@
         "title": "Aparelho de jantar",
         "image": "aparelho-jantar.jpg",
         "link": "https://www.americanas.com.br/produto/119607301?cor=BRANCO&tamanho=UNICO",
-        "available": true
+        "available": false
     },
     {
         "title": "Batedeira",
@@ -81,7 +81,7 @@
         "title": "Centrifugador de salada",
         "image": "centrifugador.jpg",
         "link": "https://www.amazon.com.br/Centr%C3%ADfuga-Seca-Salada-5L-Arthi/dp/B07DPX511R/ref=sr_1_8?crid=3GBVBMZ1N94UZ&keywords=centrifugador+de+salada&qid=1641538827&sprefix=centrifugador+de+%2Caps%2C254&sr=8-8",
-        "available": true
+        "available": false
     },
     {
         "title": "Saladeira",
@@ -93,7 +93,7 @@
         "title": "Porta-frios",
         "image": "porta-frios.jpg",
         "link": "https://www.amazon.com.br/Porta-Geladeira-Herm%C3%A9tico-Gaveta-Acrilico/dp/B0899MPT63/ref=sr_1_8?crid=32F496XRVY9HF&keywords=porta+frios&qid=1641538927&sprefix=porta+frio%2Caps%2C259&sr=8-8",
-        "available": true
+        "available": false
     },
     {
         "title": "Descansos de panelas",
